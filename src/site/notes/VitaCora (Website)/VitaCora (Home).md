@@ -2,13 +2,13 @@
 {"dg-publish":true,"permalink":"/vita-cora-website/vita-cora-home/","tags":["gardenEntry"]}
 ---
 
-Bitácora:
+# Bitácora:
 El nombre de esta pagina surge de la idea del cuaderno de bitácora, libro que los marinos durante sus guardias a modo de diario en un viaje para registraban lo acontecido, también es un juego con las palabras "Vita" proveniente del latín y que significa vida, en referencia a lo vital, lo que pasa en el día a día, y la raíz de la palabra "Corazón", "Cor" en referencia a hacer las cosas de corazón, algo íntimo, vivir el momento, seguir tus pasiones y no perder la cordura en este mundo desquiciado. 
 
 Los objetivos de esta pagina son desarrollar un ecosistema donde organizar mis idea y reflexiones en un palacio mental-digital, exponer mis creaciones e ideas al publico en un museo digital y principalmente interactuar y compartir con otras personas todo el conocimiento que voy aprendiendo mientras desarrollo diferentes proyectos.
 
 
-Jardín digital:
+# Jardín digital:
 El diseño y filosofía de esta pagina esta basado en la idea de jardín digital, citando el video ensayo de Alba Lafarga "Contra el algoritmo: cultivar jardines digitales en vez de likes":
 
 Los jardines digitales son espacios webs personales y en constante transformación, donde los usuarios pueden expresar y compartir sus intereses y conocimientos de forma abierta, pausada y reflexiva adaptando el espacio a aquello que quieran compartir.
